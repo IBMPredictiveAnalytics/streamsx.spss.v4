@@ -1,7 +1,7 @@
 # streamsx.spss.v4
 ###Toolkit for working with SPSS  in SPL applications.
 
-The SPSS Analytics Toolkit contains InfoSphere Streams1 operators that integrate with IBM SPSS Modeler2 and SPSS Collaboration and Deployment Services3 products to implement various aspects of SPSS Modeler predictive analytics in your InfoSphere Streams applications:
+The SPSS Analytics Toolkit contains InfoSphere Streams operators that integrate with IBM SPSS Modeler and SPSS Collaboration and Deployment Services products to implement various aspects of SPSS Modeler predictive analytics in your InfoSphere Streams applications:
 
 - SPSSScoring operator - integrates with SPSS Modeler Solution Publisher to the enable the scoring of your SPSS Modeler designed predictive models in InfoSphere Streams applications
 - SPSSPublish operator - automates the SPSS Modeler Solution Publisher ‘publish’ function which generates the required executable images needed to refresh the model used in your InfoSphere Streams applications from the logical definition of an SPSS Modeler scoring branch defined in a SPSS Modeler file
